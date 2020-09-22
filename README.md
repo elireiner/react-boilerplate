@@ -15,6 +15,7 @@ Complete the following steps to start a new project (NEW-PROJECT-NAME):
 7. Add a an env file with `touch .env.local`
 8. Add an api key in env.local
 9. Update readme file
+10. Add react-router-dom to be able to use `Link` with `npm install --save react-router-dom`
 
 
 
