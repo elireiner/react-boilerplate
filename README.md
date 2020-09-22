@@ -12,8 +12,9 @@ Complete the following steps to start a new project (NEW-PROJECT-NAME):
 4. Install the node dependencies `npm install`
 5. Edit the contents of the `package.json` to use NEW-PROJECT-NAME instead of `"name": "express-boilerplate"
 6. Add an api in config
-7. Add an api key in env.local
-8. Update readme file
+7. Add a an env file with `touch .env.local`
+8. Add an api key in env.local
+9. Update readme file
 
 
 
